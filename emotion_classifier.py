@@ -13,8 +13,8 @@ img_rows, img_cols = 48, 48
 
 batch_size = 32
 
-train_data_dir = r'C:\Users\Sythe\Documents\emotion-detection\train'
-validation_data_dir = r'C:\Users\Sythe\Documents\emotion-detection\test'
+train_data_dir = r'C:/Users/Sythe/Documents/emotion-detection/train'
+validation_data_dir = r'C:/Users/Sythe/Documents/emotion-detection/test'
 
 #block of train data generation which generates many images 
 #from a single image which will help in training machine and 
