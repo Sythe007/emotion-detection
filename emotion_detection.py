@@ -40,6 +40,6 @@ while True:
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
-cap.release()
+cap.release('q')
 cv2.waitKey(0)
 cv2.destroyAllWindows()
